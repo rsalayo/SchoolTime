@@ -21,7 +21,7 @@
 				.CreateToastNotifier("SchoolTime")
 				.Show(new ToastNotification(toastXml));
 
-			
+
 			var sb = new StringBuilder();
 			sb.AppendLine(@"  _________      .__                  ._____________.__                ");
 			sb.AppendLine(@" /   _____/ ____ |  |__   ____   ____ |  \__    ___/|__| _____   ____  ");
