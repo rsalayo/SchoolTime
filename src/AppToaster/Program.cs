@@ -8,7 +8,7 @@
 	{
 		private static void Main(string[] args)
 		{
-			const string title = "SchoolTime by Rome Salayo";
+			const string title = "SchoolTime by Romeo Salayo";
 			const string msg = "This application has been blocked during school hours, please try again later.";
 
 			const ToastTemplateType template = ToastTemplateType.ToastText02;
